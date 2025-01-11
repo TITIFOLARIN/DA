@@ -22,7 +22,8 @@ I'm a passionate Data Analyst with expertise in Power BI. I love transforming ra
 ## 🏆 Certifications
 
 - Microsoft Certified: Power BI Data Analyst Associate
-- Microsoft Certified Trainer (MCT)
+- Certified SAFe 6 Scrum Master
+- Certified Scrum Product Owner (CSPO)
 
 ## 🚀 Power BI Projects
 
