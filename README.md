@@ -17,7 +17,7 @@ I'm a passionate Data Analyst with expertise in Power BI. I love transforming ra
 - *Data Analysis*: Power BI, Excel, SQL
 - *Programming*: DAX, M, Python
 - *Visualization*: Power BI, Tableau
-- *Training*: Microsoft Certified Trainer (MCT)
+- *Tools*: Microsoft Excel, SPSS
 
 ## 🏆 Certifications
 
