@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Titi!
 
-I'm a passionate Data Analyst with expertise in Power BI. I love transforming raw data into actionable insights and empowering others to do the same.
+I'm a passionate Data Analyst with expertise in Power BI. I love transforming complex data into actionable insights.
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
